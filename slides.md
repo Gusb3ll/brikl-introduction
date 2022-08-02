@@ -50,6 +50,12 @@ css: unocss
 
 - 👎 **Dislikes** - <span class="text-lg tracking-wide">Nothing (?)</span>
 
+- 🌐 **Socials**
+  <div class="-mt-2"></div>
+  - <span class="text-lg tracking-wide font-bold">Facebook : Kitpipat Jaritwong</span>
+  <br>
+  - <span class="text-lg tracking-wide">Github : Gusb3ll</span>
+
 <style>
 h2 { @apply: mb-2; }
 </style>
